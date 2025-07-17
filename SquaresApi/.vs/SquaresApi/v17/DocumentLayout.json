@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juliu\\Desktop\\squares\\SquaresApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55F6624C-3CCD-2BDF-BA97-BD3CF14FB494}|SquaresApi.csproj|c:\\users\\juliu\\desktop\\squares\\squaresapi\\controllers\\pointscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F6624C-3CCD-2BDF-BA97-BD3CF14FB494}|SquaresApi.csproj|solutionrelative:controllers\\pointscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E310BCEA-8246-4DB5-84A1-D1C3855E451F}|..\\Tests\\SquaresApi.Tests.csproj|c:\\users\\juliu\\desktop\\squares\\tests\\squaresservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F6624C-3CCD-2BDF-BA97-BD3CF14FB494}|SquaresApi.csproj|c:\\users\\juliu\\desktop\\squares\\squaresapi\\data\\pointsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F6624C-3CCD-2BDF-BA97-BD3CF14FB494}|SquaresApi.csproj|solutionrelative:data\\pointsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PointsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\juliu\\Desktop\\squares\\SquaresApi\\Data\\PointsDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\PointsDbContext.cs",
+              "ToolTip": "C:\\Users\\juliu\\Desktop\\squares\\SquaresApi\\Data\\PointsDbContext.cs",
+              "RelativeToolTip": "Data\\PointsDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:06:41.004Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PointsController.cs",
+              "DocumentMoniker": "C:\\Users\\juliu\\Desktop\\squares\\SquaresApi\\Controllers\\PointsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PointsController.cs",
+              "ToolTip": "C:\\Users\\juliu\\Desktop\\squares\\SquaresApi\\Controllers\\PointsController.cs",
+              "RelativeToolTip": "Controllers\\PointsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T16:23:49.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SquaresServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\juliu\\Desktop\\squares\\Tests\\SquaresServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\Tests\\SquaresServiceTests.cs",
+              "ToolTip": "C:\\Users\\juliu\\Desktop\\squares\\Tests\\SquaresServiceTests.cs",
+              "RelativeToolTip": "..\\Tests\\SquaresServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:29:46.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

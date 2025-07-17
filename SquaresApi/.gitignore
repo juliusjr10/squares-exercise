@@ -1,0 +1,16 @@
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+*.code-workspace
+*.log
+.dockerignore
+**/secrets.json
+migrations/
+packages/
+*.nupkg
+*.db
+.env
