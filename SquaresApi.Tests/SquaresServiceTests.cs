@@ -1,8 +1,5 @@
 ﻿using SquaresApi.Models;
 using SquaresApi.Services;
-using System.Collections.Generic;
-using Xunit;
-
 public class SquareServiceTests
 {
     private readonly SquareService _service;
