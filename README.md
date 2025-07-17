@@ -71,7 +71,7 @@ Navigate to the directory `/SquaresApi.Tests` and run the command: `dotnet test`
 * Implement monitoring.
 * Limited the response size to prevent performance issues with large datasets.
 
-### Bonus points stuff:
+## Bonus points stuff:
 
 * Implemented automated tests to ensure code reliability and correctness.
 * Implemented a RESTful API using ASP.NET Core.
